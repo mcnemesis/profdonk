@@ -36,6 +36,7 @@ body {
   border-radius: 5px;
   border: 1px solid #ccc;
   opacity: 0.9;
+  margin-bottom: 5px;
 }
 .container li:hover {
   box-shadow: 1px 2px 3px 0px rgba(25, 25, 25, 0.6);
@@ -49,6 +50,8 @@ body {
 }
 .container h2 {
   margin: 0;
+  color: #00551b;
+  margin-bottom: 5px;
 }
 .container p {
   color: #555;
