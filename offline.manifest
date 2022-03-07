@@ -1,0 +1,12 @@
+# Make static web app offline-compartible
+
+CACHE
+index.html
+
+CNAME
+index.html
+script.js
+style.css
+# if manifest supports wildcards
+media/*
+
