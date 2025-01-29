@@ -205,6 +205,14 @@ nav ul li a:active {
     color: tomato;
 }
 
+.entry-item a {
+    color: lawngreen !important;
+}
+
+.entry-item a:visited {
+    color: lightskyblue !important;
+}
+
 .legend {
   color: gray;
 }
