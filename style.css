@@ -148,7 +148,7 @@ nav ul li a {
 @media (max-width: 420px) {
 	nav ul li a {
 		font-size: small !important; /* Adjust font size */
-		color: blue !important; /* Change text color */
+		color: aquamarine !important; /* Change text color */
 		padding: 0px !important;
 	}
 }
