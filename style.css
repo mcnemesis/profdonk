@@ -201,6 +201,10 @@ nav ul li a:active {
   color: darkseagreen;
 }
 
+.entry-item h3 small {
+    color: tomato;
+}
+
 .legend {
   color: gray;
 }
