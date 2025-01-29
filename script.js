@@ -63,7 +63,7 @@ $(document).ready(function () {
 
 
 function renderTagCloud(entries){
-  var tagVw = window.innerWidth * 0.38;
+  var tagVw = window.innerWidth * 0.68;
    var settings = {
                 entries: entries,
                 width: tagVw,

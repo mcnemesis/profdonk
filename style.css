@@ -194,7 +194,7 @@ nav ul li a:active {
 }
 
 #tag_cloud {
-  width: 40vw;
+  width: 70vw;
   margin-left:auto;
   margin-right:auto;
   border:gray 5px dashed;
@@ -223,5 +223,10 @@ nav ul li a:active {
 }
 
 .item8 {
+    margin-top: 5px;
     background: none !important;
+}
+
+.item8 h2 {
+    color: aliceblue !important;
 }
