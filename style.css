@@ -196,16 +196,12 @@ nav ul li a:active {
   border-bottom: gray 3px solid;
 }
 
-.entry-item h3 small {
-  color: tomato;
-}
-
 #tag_cloud {
   width: 40vw;
   margin-left:auto;
   margin-right:auto;
   border:gray 5px dashed;
-  padding: 10px;
+
   color: darkseagreen;
 }
 
