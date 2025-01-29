@@ -175,3 +175,49 @@ nav ul li a:active {
     color: lightseagreen;
     text-decoration: none
 }
+
+/* for the dynamic portfolio */
+
+#dynamic_academia_portfolio {
+  max-width: 50vw;
+  margin-left:auto;
+  margin-right:auto;
+  border:gray 5px dashed;
+  padding: 10px;
+  color: darkseagreen;
+}
+
+#dynamic_academia_portfolio p {
+    color: aliceblue;
+}
+
+.entry-item {
+  padding-bottom: 3px;
+  border-bottom: gray 3px solid;
+}
+
+.entry-item h3 small {
+  color: tomato;
+}
+
+#tag_cloud {
+  width: 40vw;
+  margin-left:auto;
+  margin-right:auto;
+  border:gray 5px dashed;
+  padding: 10px;
+  color: darkseagreen;
+}
+
+.legend {
+  color: gray;
+}
+
+
+.item7 {
+    height: auto !important;
+}
+
+.item8 {
+    background: none !important;
+}
