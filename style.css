@@ -28,7 +28,8 @@ body {
   margin: 2%;
   padding: 5px;
   border-left: solid black 2px;
-  background-color: rgba(127, 237, 255, 0.4);
+  /*background-color: rgba(127, 237, 255, 0.4);*/
+  background-color: rgb(255 13 72 / 40%);
   color: #ff0;
   border-radius: 3px;
 }
@@ -55,7 +56,8 @@ body {
   transition: all 0.5s ease;
 }
 .container h1 {
-  background-color: #38678f;
+  /*background-color: #38678f;*/
+  background-color: #388f6a;
   color: #fff;
   padding: 1.25rem;
   border-radius: 6px;
